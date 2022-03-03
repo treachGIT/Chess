@@ -1,0 +1,12 @@
+D:\Unity\dsadsa\Chess\Assets\Resources\Stockfish.NET-master\Stockfish.NET\stockfish_12_win_x64\stockfish_20090216_x64.exe
+Pieces1/
+30
+white
+230
+220
+187
+255
+186
+177
+150
+255
